@@ -5,9 +5,9 @@ Gleam lets you build interactive web visualizations of data using Python: no kno
 
 (You can find the code for the demo in [examples/baseball.py](examples/baseball.py)).
 
-The original code was described by dgrtwo as the result of a hackathon project. It was for Python 2 and 'ggplot'. This fork makes changes to get at least partial functionality of the 'baseball.py' example using Python 3 and 'plotnine'. Tested with Python 3.8. I'm still figuring out git, merges, and pull requests, so the Python 3/Plotnine functionality for the moment is only in the 'python3-plotnine' branch. If you simply clone and install, you are getting the Python 2/ggplot original.
+The original code was described by dgrtwo as the result of a hackathon project. It was for Python 2 and 'ggplot'. This fork makes changes to get at least partial functionality of the 'baseball.py' example using Python 3 and 'plotnine'. Tested with Python 3.8. I'm (WRE) still figuring out git, merges, and pull requests, so the Python 3/Plotnine functionality for the moment is only in the 'python3-plotnine' branch. If you simply clone and install, you are getting the Python 2/ggplot original.
 
-There are alternatives to look at. Both 'Shiny for Python' and 'Streamlit' are actively maintained projects of larger scope. I'm unlikely to expand this fork much given that there are good alternatives.
+There are alternatives to look at. Both 'Shiny for Python' and 'Streamlit' are actively maintained projects of larger scope. I'm (WRE) unlikely to expand this fork much given that there are good alternatives.
 
 Installation
 ------------
