@@ -22,10 +22,10 @@ Optional (but needed for the example):
 
 Then do the following:
 
-git clone <repo>
-cd <repo>
-git checkout python3-plotnine
-python setup.py install
+    git clone <repo>
+    cd <repo>
+    git checkout python3-plotnine
+    python setup.py install
 
 If you don't do the branch checkout, you won't get the Python 3 compatible files.
 
